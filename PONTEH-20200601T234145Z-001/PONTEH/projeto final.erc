@@ -1,0 +1,30 @@
+EAGLE Version 4.16r2 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for C:/Users/Wyctor/Desktop/ELETRÔNICA ANALOGICA1/projeto final.sch at 30/04/2019 13:28:39 
+
+WARNING: Sheet 1/1: POWER Pin BAT1 - connected to N$9
+WARNING: Sheet 1/1: POWER Pin BAT1 + connected to N$10
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin BAT1 +
+WARNING: Sheet 1/1, Net N$3: missing Junction at (2.4 2.8)
+WARNING: Sheet 1/1, Net N$4: missing Junction at (0.4 2.5)
+WARNING: Sheet 1/1, Net N$4: missing Junction at (0.2 2.5)
+WARNING: Sheet 1/1, Net N$5: missing Junction at (1.9 2.5)
+WARNING: Sheet 1/1, Net N$5: missing Junction at (2.1 2.5)
+WARNING: Sheet 1/1, Net N$7: missing Junction at (2.9 2.6)
+WARNING: Sheet 1/1, Net N$8: missing Junction at (-0.2 2.8)
+WARNING: Sheet 1/1, Net N$10: missing Junction at (0.4 3)
+WARNING: Sheet 1/1, Net N$10: missing Junction at (1.1 3)
+WARNING: Sheet 1/1, Net N$10: missing Junction at (1.9 3)
+WARNING: Sheet 1/1, Net N$11: missing Junction at (-0.7 2.5)
+WARNING: Sheet 1/1, Net N$9: missing Junction at (0.4 1.8)
+WARNING: Sheet 1/1, Net N$9: missing Junction at (0.7 1.3)
+WARNING: Sheet 1/1, Net N$9: missing Junction at (0.7 1.8)
+WARNING: Sheet 1/1, Net N$9: missing Junction at (0.9 1.8)
+WARNING: Sheet 1/1, Net N$9: missing Junction at (1.9 1.8)
+WARNING: Sheet 1/1, Net N$9: missing Junction at (2.1 1.8)
+WARNING: Sheet 1/1, Net N$10: wire overlaps pin at (3.7 2.7)
+
+Board and schematic are consistent
+
+    1 errors
+   20 warnings
